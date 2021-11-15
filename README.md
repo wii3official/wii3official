@@ -1,4 +1,9 @@
-### Hi there 👋
+### Wii3 Discord Aesthetic bot 👋
+
+<a href="https://dsc.gg/wii3">
+  <img align="left" alt="Add Wii3 to your server!" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
 
 <!--
 **wii3official/wii3official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
